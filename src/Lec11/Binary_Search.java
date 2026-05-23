@@ -1,0 +1,34 @@
+package Lec11;
+
+public class Binary_Search {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int []arr= {2,3,5,8,9,11,13,15,16,18,19};
+		int item=18;
+		System.out.print(Binary_Search(arr,item));
+		
+	}
+	public static int Binary_Search(int []arr,int item)
+	{
+		int lo=arr.length;
+		int hi=arr.length-1;
+		while(lo<=hi)
+		{
+			int mid=(lo+hi)/2;
+			if(arr[mid]==item)
+			{
+				return mid;
+			}
+			else if(arr[mid]>item)
+			{
+				hi=mid+1;
+			}
+			else {
+				lo=mid-1;
+			}
+		}
+		return -1;
+	}
+
+}

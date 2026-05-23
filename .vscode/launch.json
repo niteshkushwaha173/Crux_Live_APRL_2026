@@ -1,0 +1,119 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Pattern7",
+            "request": "launch",
+            "mainClass": "Lec01.Pattern7",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Pattern6",
+            "request": "launch",
+            "mainClass": "Lec01.Pattern6",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Pattern5",
+            "request": "launch",
+            "mainClass": "Lec01.Pattern5",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Pattern4",
+            "request": "launch",
+            "mainClass": "Lec01.Pattern4",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Pattern3",
+            "request": "launch",
+            "mainClass": "Lec01.Pattern3",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Pattern2",
+            "request": "launch",
+            "mainClass": "Lec01.Pattern2",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Pattern1",
+            "request": "launch",
+            "mainClass": "Lec01.Pattern1",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Pattern27",
+            "request": "launch",
+            "mainClass": "Lec03.Pattern27",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Pattern26",
+            "request": "launch",
+            "mainClass": "Lec03.Pattern26",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Pattern25",
+            "request": "launch",
+            "mainClass": "Lec03.Pattern25",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Pattern19",
+            "request": "launch",
+            "mainClass": "Lec03.Pattern19",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Pattern17",
+            "request": "launch",
+            "mainClass": "Lec03.Pattern17",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Pattern13",
+            "request": "launch",
+            "mainClass": "Lec03.Pattern13",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "lldb-vscode",
+            "request": "launch",
+            "name": "Launch",
+            "program": "${workspaceRoot}/<your program>",
+            "args": [],
+            "env": [],
+            "cwd": "${workspaceRoot}"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Launch",
+            "program": "${workspaceFolder}/<program>",
+            "args": [],
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "name": "Launch Chrome",
+            "request": "launch",
+            "type": "chrome",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
