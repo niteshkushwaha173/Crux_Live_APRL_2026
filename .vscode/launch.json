@@ -2,6 +2,356 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Equals",
+            "request": "launch",
+            "mainClass": "Lec15_2D.Equals",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "String_demo3",
+            "request": "launch",
+            "mainClass": "Lec15_2D.String_demo3",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "String_Demo1",
+            "request": "launch",
+            "mainClass": "Lec15_2D.String_Demo1",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "String_Demo",
+            "request": "launch",
+            "mainClass": "Lec15_2D.String_Demo",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Next_Greater_Element",
+            "request": "launch",
+            "mainClass": "Lec31.Next_Greater_Element",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Sieve_Of_Eratosthenes",
+            "request": "launch",
+            "mainClass": "Lec25.Sieve_Of_Eratosthenes",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Sudoku_Solver",
+            "request": "launch",
+            "mainClass": "Lec25.Sudoku_Solver",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Max_Sum_Path_In_Two_Array",
+            "request": "launch",
+            "mainClass": "Assignment_3.Max_Sum_Path_In_Two_Array",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Alex_Goes_Shopping",
+            "request": "launch",
+            "mainClass": "Assignment_3.Alex_Goes_Shopping",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Book_Allocation",
+            "request": "launch",
+            "mainClass": "Lec13_AdvB.Book_Allocation",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Combination_Sum",
+            "request": "launch",
+            "mainClass": "Lec23.Combination_Sum",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Coin_Permutation",
+            "request": "launch",
+            "mainClass": "Lec23.Coin_Permutation",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Queen_Permutation",
+            "request": "launch",
+            "mainClass": "Lec23.Queen_Permutation",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Sort_Color",
+            "request": "launch",
+            "mainClass": "Lec11.Sort_Color",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Towwer_Of_Hannoi",
+            "request": "launch",
+            "mainClass": "Lec22.Towwer_Of_Hannoi",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Lexicographical_Number",
+            "request": "launch",
+            "mainClass": "Lec22.Lexicographical_Number",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Insertion_Sort",
+            "request": "launch",
+            "mainClass": "Lec10.Insertion_Sort",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Pattern21",
+            "request": "launch",
+            "mainClass": "Lec03.Pattern21",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Permutations",
+            "request": "launch",
+            "mainClass": "Lec21.Permutations",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "InvertNaturalNumber",
+            "request": "launch",
+            "mainClass": "Recursion_Question42.InvertNaturalNumber",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "PrintNatural_Number",
+            "request": "launch",
+            "mainClass": "Recursion_Question42.PrintNatural_Number",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Fibbonacci",
+            "request": "launch",
+            "mainClass": "Lec19_Recursion.Fibbonacci",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "N_Coin",
+            "request": "launch",
+            "mainClass": "Lec19_Recursion.N_Coin",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "String_SubSequence",
+            "request": "launch",
+            "mainClass": "Lec19_Recursion.String_SubSequence",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Q_1",
+            "request": "launch",
+            "mainClass": "Test.Q_1",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Arrays_Sum_Of_Two_Array",
+            "request": "launch",
+            "mainClass": "Lec17.Arrays_Sum_Of_Two_Array",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Min_From_ith_Index",
+            "request": "launch",
+            "mainClass": "Lec10.Min_From_ith_Index",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Help_Ramu",
+            "request": "launch",
+            "mainClass": "Lec17_Assign_Qtn.Help_Ramu",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Product_Of_Array",
+            "request": "launch",
+            "mainClass": "Lec09.Product_Of_Array",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Rotate_Array",
+            "request": "launch",
+            "mainClass": "Lec09.Rotate_Array",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Sort_just_Zeroes_and_Ones",
+            "request": "launch",
+            "mainClass": "Assignment_3.Sort_just_Zeroes_and_Ones",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Binary_Decimal",
+            "request": "launch",
+            "mainClass": "Lec05.Binary_Decimal",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Print_Target_Pair",
+            "request": "launch",
+            "mainClass": "Assignment_3.Print_Target_Pair",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Triplet1",
+            "request": "launch",
+            "mainClass": "Assignment_3.Triplet1",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Finding_CB_Number",
+            "request": "launch",
+            "mainClass": "Lec16.Finding_CB_Number",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Length_wise_substring",
+            "request": "launch",
+            "mainClass": "Lec16.Length_wise_substring",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "String_to_Number",
+            "request": "launch",
+            "mainClass": "Lec16.String_to_Number",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Triplet",
+            "request": "launch",
+            "mainClass": "Assignment_3.Triplet",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Triplate",
+            "request": "launch",
+            "mainClass": "Assignment_3.Triplate",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Reverse2",
+            "request": "launch",
+            "mainClass": "Lec08.Reverse2",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "Lec08.Reverse",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Max_Array",
+            "request": "launch",
+            "mainClass": "Lec08.Max_Array",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Linear_Search",
+            "request": "launch",
+            "mainClass": "Lec08.Linear_Search",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Array_Swap_Demo3",
+            "request": "launch",
+            "mainClass": "Lec08.Array_Swap_Demo3",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Array_Swap_demo2",
+            "request": "launch",
+            "mainClass": "Lec08.Array_Swap_demo2",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Array_Swap_Demo",
+            "request": "launch",
+            "mainClass": "Lec08.Array_Swap_Demo",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Input_Output",
+            "request": "launch",
+            "mainClass": "Lec08.Input_Output",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Array_Demo",
+            "request": "launch",
+            "mainClass": "Lec08.Array_Demo",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "Shopping_Game",
+            "request": "launch",
+            "mainClass": "Lec07_Function.Shopping_Game",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
+            "name": "IS_Armstrong_Number",
+            "request": "launch",
+            "mainClass": "Lec07_Function.IS_Armstrong_Number",
+            "projectName": "Crux_LIVE_APRL_26"
+        },
+        {
+            "type": "java",
             "name": "Pattern7",
             "request": "launch",
             "mainClass": "Lec01.Pattern7",
